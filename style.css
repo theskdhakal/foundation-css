@@ -1,0 +1,23 @@
+p {
+  color: red;
+}
+
+section {
+  background: green;
+  /* color:white;  */
+}
+
+/* # for the id  */
+
+#fifth {
+  background: yellow;
+}
+
+/* class selector */
+.pg {
+  font-size: 24px;
+}
+
+/* Descendant */
+section p {
+}
